@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Hurt Box
+  - Ledge Box
+  - Ledge Area
+  - Hit Box
+  - Enemy
+  - Special Hit Box
+  - Entity Hit Box
+  - HpBar
+  - "Bot\xF5es (UI)"
+  - Menu (UI)
+  - Hurt Box (Player)
+  - Hit Box (Enemy)
+  - GameOver
+  - Debuff Field
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - Player
+  - Hit Box
+  - Hurt Box
+  - Ledge
+  - Enemy
+  - Character Collider (Player)
+  - Character Collider (Enemy)
+  - Enemy FoV
+  - Hit Box (Enemy)
+  - Hurt Box (Enemy)
+  - Debuff Field
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4063134643
+    locked: 0
+  - name: Ground
+    uniqueID: 2349626399
+    locked: 0
+  - name: Player
+    uniqueID: 3630466713
+    locked: 0
+  - name: Effects
+    uniqueID: 2725018573
+    locked: 0
+  - name: UI
+    uniqueID: 1057150785
+    locked: 0
